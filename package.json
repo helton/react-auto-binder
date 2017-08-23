@@ -1,0 +1,19 @@
+{
+  "name": "react-auto-binder",
+  "version": "1.0.0",
+  "description": "Auto bind custom methods in React components",
+  "main": "index.js",
+  "repository": "https://github.com/helton/react-auto-binder.git",
+  "author": "Helton Carlos de Souza <heltoncarlossouza@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava --color --verbose",
+    "test-watch": "yarn test -- --watch"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0"
+  },
+  "dependencies": {
+    "react": "^15.6.1"
+  }
+}
