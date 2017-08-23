@@ -1,8 +1,8 @@
 # react-auto-binder [![Build Status](https://travis-ci.org/helton/react-auto-binder.svg?branch=master)](https://travis-ci.org/helton/react-auto-binder)
 
-> :rocket: Auto bind the custom methods of your React components
+> :rocket: Auto bind custom methods of your React components
 
-**ReactAutoBinder** is a **higher order component** that bind *this* to all custom methods on your React component class (just use `ReactAutoBind(YourComponent)` when export it)
+**ReactAutoBinder** is a **higher order component** that bind *this* to all custom methods on your React components (just use `ReactAutoBinder(YourComponent)` when export it)
 
 ## Install
 
